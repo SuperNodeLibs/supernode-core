@@ -1,0 +1,4 @@
+#include "main/SuperNodeCoreVersion.h"
+
+const std::string SUPERNODE_CORE_VERSION = "%%VERSION%%";
+
